@@ -1,0 +1,61 @@
+{
+  "_from": "geo-dist-calc",
+  "_id": "geo-dist-calc@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-rGaz4SDovEfQfBhOn2Gpdf3kbRY=",
+  "_location": "/geo-dist-calc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "geo-dist-calc",
+    "name": "geo-dist-calc",
+    "escapedName": "geo-dist-calc",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/geo-dist-calc/-/geo-dist-calc-1.1.0.tgz",
+  "_shasum": "ac66b3e120e8bc47d07c184e9f61a975fde46d16",
+  "_spec": "geo-dist-calc",
+  "_where": "/Users/lucasj/Documents/ReactNative/BMCBackend",
+  "author": {
+    "name": "Parit Sharma"
+  },
+  "bugs": {
+    "url": "https://github.com/parit90/geo-dist-calc/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "calculates distance between two geocoordinates i.e latitude,longitude distance calculation.",
+  "homepage": "https://github.com/parit90/geo-dist-calc#readme",
+  "keywords": [
+    "distance",
+    "calculation",
+    "geolocation",
+    "distance",
+    "calculation",
+    "lat",
+    "long",
+    "distance",
+    "between",
+    "points",
+    "geolocation",
+    "calculations"
+  ],
+  "license": "ISC",
+  "main": "lib/discal.js",
+  "name": "geo-dist-calc",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/parit90/geo-dist-calc.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.1.0"
+}
